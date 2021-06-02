@@ -1,0 +1,47 @@
+body{
+    margin: 0%;
+}
+
+.navBar{
+    text-align: center;
+    background-image:url(pictures1/pano3.jpg);
+    padding: 1%;
+    background-position-y: 54%;
+    background-size: cover;
+    border-radius: 4px;
+    margin: 0%;
+}
+
+#one, #two, #three, #four{
+    padding: 0%;
+    text-decoration: none;
+    color: white;
+    text-shadow: 2px 2px 3px black;
+    padding: 0% 4% 0% 4%;
+    font-size: 200%;
+
+}
+
+.container{
+    text-align: center;
+    background-image: url(pictures1/pano2.jpg);
+    background-size: cover;
+    background-position-y: 30%;
+}
+
+#miVida{
+    padding: 4%;
+}
+
+.container1, .container2{
+    display: flex;  
+      
+}
+
+.block1, .block2, .block3{
+}
+
+.block1, .block2, .block3, .block4, .block5, .block6, .block7{
+    text-align: center;
+}
+
